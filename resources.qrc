@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>dirt.png</file>
+        <file>link.png</file>
+        <file>portal.png</file>
+        <file>arrow_down.png</file>
+        <file>arrow_right.png</file>
+        <file>arrow_left.png</file>
+        <file>arrow_up.png</file>
+        <file>boss1.png</file>
+        <file>Boss3.png</file>
+        <file>stone.png</file>
+        <file>metal.png</file>
+        <file>floor.jpg</file>
+        <file>switch_green.png</file>
+        <file>switch_red.png</file>
+        <file>fireball_down.png</file>
+        <file>fireball_left.png</file>
+        <file>fireball_right.png</file>
+        <file>fireball_up.png</file>
+        <file>vert_thunder.png</file>
+        <file>Boss2.png</file>
+        <file>fire_arrow_down.png</file>
+        <file>fire_arrow_left.png</file>
+        <file>fire_arrow_right.png</file>
+        <file>fire_arrow_up.png</file>
+        <file>fire_wall.png</file>
+        <file>link_right.png</file>
+        <file>slime_left.png</file>
+        <file>slime_right.png</file>
+        <file>HeroQuestLogoPixels5.png</file>
+        <file>defeat.png</file>
+        <file>victory.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>arrow.wav</file>
+        <file>fire_arrow.wav</file>
+        <file>ooze.wav</file>
+        <file>win.wav</file>
+    </qresource>
+</RCC>
